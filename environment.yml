@@ -1,0 +1,8 @@
+name: py12box_ocean
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - numba
+  - pandas

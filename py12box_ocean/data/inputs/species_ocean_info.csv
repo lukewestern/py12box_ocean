@@ -1,0 +1,8 @@
+# Ocean transport and degradation info for ocean-atmosphere 16-box model
+# Species as species_info.csv
+# piston_velocity in cm/hr
+# half_life_mixed is ocean mixed layer hydrolysis half-life in years
+# half_life_mixed is ocean deep layer hydrolysis half-life in years
+Species,piston_velocity,half_life_mixed,half_life_deep
+CFC-11, 10, 1e6, 1e6
+CH3CCl3, 10.9, 0.5, 1

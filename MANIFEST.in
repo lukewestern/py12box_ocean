@@ -1,0 +1,6 @@
+include README.md
+recursive-include py12box_ocean/data *.csv *.npy *.npz
+
+global-exclude *.pickle
+global-exclude *.pyc
+global-exclude *.pyd
